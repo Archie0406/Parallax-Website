@@ -1,4 +1,5 @@
 # Parallax Scrolling Website
+URL:  https://archie0406.github.io/Parallax-Website/
 
 A visually appealing, modern website featuring smooth **parallax scrolling effects**. This project demonstrates how to create layered, interactive scrolling experiences using HTML, CSS, and optionally JavaScript.
 
